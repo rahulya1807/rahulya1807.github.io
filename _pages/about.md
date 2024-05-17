@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there 👋, I'm Rahul! Welcome to my academic page"
+title: "👋🏻 Hello there, I'm Rahul !"
 author_profile: true
 redirect_from: 
   - /about/
