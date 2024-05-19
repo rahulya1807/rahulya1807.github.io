@@ -21,7 +21,7 @@ repository               : "rahulya1807/rahulya1807.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilephoto2.jpg"
+  avatar           : "profilephoto1.jpg"
   name             : "Rahul"
   pronouns         : # example: "she/her"  
   bio              : "Research Scholar"
@@ -70,7 +70,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "https://www.youtube.com/channel/UC8meHx54k0wRfl_61sjlAPw"
+  youtube          : # URL
   zhihu            : # URL
 
 
