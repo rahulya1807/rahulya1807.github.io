@@ -21,7 +21,7 @@ repository               : "rahulya1807/rahulya1807.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilephoto1.jpg"
+  avatar           : "profilephoto2.jpg"
   name             : "Rahul"
   pronouns         : # example: "she/her"  
   bio              : "Research Scholar"
@@ -50,27 +50,27 @@ author:
   # Social media
   bluesky          : # Replace this with you Bluesky username
   linkedin         : "rahul180799"
-  facebook         : "rahulya1807"
+  pinterest        : "rahulya1807"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
+  facebook         : "rahulya1807"
   instagram        : "rahulya1807"
   lastfm           : # Username
   mastodon         : # URL
   medium           : # URL
-  pinterest        : "rahulya1807"
   soundcloud       : # Username
   steam            : # Username
-  telegram         : "rahulya1807"
+  telegram         : # Username
   tumblr           : # Username
   twitter          : "rahulya1807"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "Rahulya1807"
+  youtube          : "https://www.youtube.com/channel/UC8meHx54k0wRfl_61sjlAPw"
   zhihu            : # URL
 
 
